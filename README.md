@@ -1,4 +1,4 @@
-Variables :
+Variables prédéfinit
 
 - $*	contient tous les arguments passés à la fonction
 - $#	contient le nombre d'argument

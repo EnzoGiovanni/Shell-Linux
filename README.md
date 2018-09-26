@@ -1,10 +1,9 @@
 Cours :
-https://marcg.developpez.com/ksh/
-https://abs.traduc.org/abs-fr/
+ - https://marcg.developpez.com/ksh/
+ - https://abs.traduc.org/abs-fr/
 
 
-un bash commence toujours par 
-#!/bin/bash
+un bash commence toujours par #!/bin/bash
 
 
 https://doc.ubuntu-fr.org/tutoriel/script_shell

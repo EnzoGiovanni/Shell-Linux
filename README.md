@@ -17,3 +17,5 @@ Variables prédéfinit
 - $0	contient le nom du script
 - $n	contient l'argument n, n étant un nombre
 - $!	contient le PID de la dernière commande lancée
+
+ - # Cette ligne est un commentaire.

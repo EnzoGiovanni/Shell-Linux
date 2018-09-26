@@ -1,3 +1,6 @@
+un bash commence toujours par 
+#!/bin/bash
+
 
 https://doc.ubuntu-fr.org/tutoriel/script_shell
 

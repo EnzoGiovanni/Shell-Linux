@@ -1,3 +1,7 @@
+
+https://doc.ubuntu-fr.org/tutoriel/script_shell
+
+
 Variables prédéfinit
 
 - $*	contient tous les arguments passés à la fonction

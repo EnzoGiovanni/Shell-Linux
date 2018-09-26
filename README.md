@@ -1,3 +1,8 @@
+Cours :
+https://marcg.developpez.com/ksh/
+https://abs.traduc.org/abs-fr/
+
+
 un bash commence toujours par 
 #!/bin/bash
 
